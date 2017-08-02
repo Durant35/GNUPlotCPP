@@ -7,3 +7,4 @@ code that deliberately produces test data for visualization. So, basically,
 GNUPlotCPP is a tool for experimentation, development and debugging of C++ 
 code. It may also be useful for creating plots for inclusion into technical 
 documentations of your algorithms and code.
+[Wiki](https://github.com/Durant35/GNUPlotCPP/wiki)
